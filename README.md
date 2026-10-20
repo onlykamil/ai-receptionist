@@ -9,7 +9,7 @@ An instant AI voice and chat agent creation platform that automatically builds s
 **Core Capabilities:** Voice AI · Chat AI · Automated Knowledge-Base Creation · Enterprise Systems Integration
 
 **Live Product:** [AI-Receptionist](https://voice.business-folio.com)
-
+Create one for your company and try it
 ---
 
 ## At a Glance
@@ -17,7 +17,7 @@ An instant AI voice and chat agent creation platform that automatically builds s
 | Capability | Description |
 |---|---|
 | Self-service agent creation | Create voice and chat agents using a company website URL and available online information |
-| Automated knowledge preparation | Automatically build a seed knowledge base from discovered business information |
+| Automated knowledge preparation | Automatically build seed knowledge-base from discovered business information |
 | Voice and chat | Provide voice-based and text-based customer interaction |
 | Multilingual support | Support customer interactions in four languages |
 | Built-in integrations | Allow administrators to connect Google Calendar and email |
@@ -51,6 +51,7 @@ flowchart TD
     H --> I[CRM]
     H --> J[Accounting System]
     H --> K[Tax Management System]
-    G --> L[Administrator-Connected Services]
-    L --> M[Google Calendar]
-    L --> N[Email]
+    H --> L[Facility Management]
+    G --> M[Administrator-Connected Services]
+    L --> N[Google Calendar]
+    L --> O[Email]
