@@ -10,7 +10,7 @@ An instant AI voice and chat agent creation platform that automatically builds s
 
 **Live Product:** [AI-Receptionist Voice/Chat](https://voice.business-folio.com)**
 ---
-Create one for your company and try it
+Create one for your company now and try it. (may take you 2 minutes)
 
 ## At a Glance
 
@@ -19,7 +19,7 @@ Create one for your company and try it
 | Agent creation | Submit company URL, administration email and password |
 | Automated knowledge preparation | Automatically seed business information knowledge-base will be prepared |
 | Voice and chat Agent | Access to dialer and administration will be provided instantly |
-| Call | Agent will be able to respond to based on the discovered knowledge |
+| Call | Agent will be able to respond based on the discovered knowledge |
 | Built-in integrations | Allow administrators to connect Google Calendar and email |
 | Enterprise integration | Use platform APIs to develop integrations with customer-specific business systems |
 | Real-world deployment | Two businesses created agents through the platform |
@@ -28,7 +28,7 @@ Create one for your company and try it
 
 I designed and developed AI-Receptionist as a reusable platform that enables businesses to create their own AI-powered voice and chat agents without requiring a separate application to be developed for each business.
 
-The process begins with a company website URL. The platform gathers available online business information and automatically prepares a seed knowledge base for the agent. Businesses can then use the generated agent for voice and chat interactions.
+The process begins with a company website URL. The platform gathers available online business information and automatically prepares a seed knowledge-base for the agent. Businesses can then use the generated agent for voice and chat interactions.
 
 The platform also supports integration with existing business systems. I implemented customer-specific integrations for two businesses, connecting their agents with their respective CRM, accounting, and tax management systems.
 
