@@ -16,10 +16,10 @@ Create one for your company and try it
 
 | Capability | Description |
 |---|---|
-| Self-service agent creation | Create voice and chat agents using a company website URL and available online information |
-| Automated knowledge preparation | Automatically build seed knowledge-base from discovered business information |
-| Voice and chat | Provide voice-based and text-based customer interaction |
-| Multilingual support | Support customer interactions in four languages |
+| Agent creation | Submit company URL, administration email and password |
+| Automated knowledge preparation | Automatically seed business information knowledge-base will be prepared |
+| Voice and chat Agent | Access to dialer and administration will be provided instantly |
+| Call | Agent will be able to respond to based on the discovered knowledge |
 | Built-in integrations | Allow administrators to connect Google Calendar and email |
 | Enterprise integration | Use platform APIs to develop integrations with customer-specific business systems |
 | Real-world deployment | Two businesses created agents through the platform |
@@ -52,6 +52,6 @@ flowchart TD
     H --> J[Accounting System]
     H --> K[Tax Management System]
     H --> L[Facility Management]
-    G --> M[Administrator-Connected Services]
-    L --> N[Google Calendar]
-    L --> O[Email]
+    G --> L[Administrator-Connected Services]
+    L --> M[Google Calendar]
+    L --> N[Email]
