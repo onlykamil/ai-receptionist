@@ -8,9 +8,9 @@ An instant AI voice and chat agent creation platform that automatically builds s
 **Languages:** Four supported languages  
 **Core Capabilities:** Voice AI · Chat AI · Automated Knowledge-Base Creation · Enterprise Systems Integration
 
-**Live Product:** [AI-Receptionist](https://voice.business-folio.com)
-Create one for your company and try it
+**Live Product:** [AI-Receptionist Voice/Chat](https://voice.business-folio.com)**
 ---
+Create one for your company and try it
 
 ## At a Glance
 
