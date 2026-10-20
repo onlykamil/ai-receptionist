@@ -1,6 +1,6 @@
 # AI-Receptionist — Self-Service AI Agent Creation Platform
 
-An instant AI voice and chat agent creation platform that automatically builds a seed knowledge base from a company's website and available online resources. Built as a pure Progressive Web App (PWA), it includes administrator-managed Google Calendar and email integrations, with platform APIs supporting custom enterprise workflow integrations.
+An instant AI voice and chat agent creation platform that automatically builds seed knowledge-base from a company's website and available online resources. Built as a pure Progressive Web App (PWA), it includes administrator dashboard, analysis tools and administrator-managed Google Calendar and email integrations, with platform APIs supporting custom enterprise workflow integrations.
 
 **Role:** Platform Developer and AI Solutions Engineer  
 **Deployment:** Two business customers  
